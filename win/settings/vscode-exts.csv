@@ -1,0 +1,29 @@
+# 基础插件
+MS-CEINTL.vscode-language-pack-zh-hans      # 中文语言包
+ms-vscode-remote.remote-wsl                 # Remote WSL
+ms-vscode.live-server                       # Live Preview
+
+# 文档编辑
+hediet.vscode-drawio                        # DrawIO流程图
+marp-team.marp-vscode                       # Marp幻灯片
+bierner.markdown-preview-github-styles
+
+# 编程环境
+rust-lang.rust-analyzer                     # rust编程语言
+vadimcn.vscode-lldb                         # LLDB调试工具  
+ms-vscode.cmake-tools                       # CMake工具
+tamasfe.even-better-toml                    # toml配置文件
+ryanluker.vscode-coverage-gutters           # 测试代码覆盖率可视化
+Gruntfuggly.todo-tree                       # TODO/FIXME汇总提示
+tauri-apps.tauri-vscode                     # Tauri官方插件
+Vue.volar                                   # Volar（Vue官方插件）
+
+# Github插件
+GitHub.remotehub                            # 远程访问Github代码仓库（无需克隆到本地）
+GitHub.codespaces                           # 基于云的容器化开发环境
+GitHub.vscode-github-actions                # 编写Github工作流的插件
+GitHub.copilot                              # 人工智能辅助编程
+GitHub.copilot-chat                         # 人工智能编程问答机器人
+
+# AzureDevOps插件
+ms-vscode.azure-repos                       # Azure DevOps代码仓库

@@ -1,0 +1,3 @@
+cargo-binutils      # LLVM toolkit
+cargo-llvm-cov      # LLVM Code Coverage
+grcov               # Code coverage report tool
