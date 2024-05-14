@@ -1,0 +1,23 @@
+# 系统工具
+main/7zip
+main/dark
+main/git
+main/cmder
+
+# 开发环境
+main/nodejs-lts
+main/pnpm
+main/dotnet-sdk
+main/python
+main/rustup-msvc
+main/gnuplot
+extras/vscode
+extras/miniconda
+
+# 其它软件
+extras/calibre-normal
+extras/wechat
+extras/vcredist2022
+extras/dismplusplus
+extras/tabby
+dorado/neteasemusic
